@@ -4,7 +4,7 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Experiment 1: Budget vs Sales Analysis](#experiment-1-budget-vs-sales-analysis)
 2. [Experiment 2: Customer Demographics Analysis](#experiment-2-customer-demographics-analysis)
@@ -24,7 +24,7 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
-## 🔬 Detailed Experiments
+##  Detailed Experiments
 
 ### Experiment 1: Budget vs Sales Analysis
 
@@ -281,14 +281,14 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
-## 📊 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Tableau** - Data visualization and dashboarding
 - **R** - Statistical analysis and advanced computations
 - **Excel/CSV** - Data preparation and storage
 - **Data Analysis Tools** - Multiple analytical techniques
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 dsa0620/
@@ -312,7 +312,7 @@ dsa0620/
     └── Online_Learning_Activity.R
 ```
 
-## 🎯 Key Findings Summary
+##  Key Findings Summary
 
 | Experiment | Key Metric | Finding |
 |-----------|-----------|---------|
@@ -334,7 +334,7 @@ dsa0620/
 
 ---
 
-## 📈 Methodology
+##  Methodology
 
 All experiments follow a standardized approach:
 
@@ -347,7 +347,7 @@ All experiments follow a standardized approach:
 
 ---
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 1. **View Visualizations** - Check the `images/` folder for all experiment outputs
 2. **Review Datasets** - Examine the data files used for each experiment
@@ -356,7 +356,7 @@ All experiments follow a standardized approach:
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - All datasets have been cleaned and preprocessed for analysis
 - Visualizations are optimized for clarity and insight extraction
@@ -365,13 +365,13 @@ All experiments follow a standardized approach:
 
 ---
 
-## 👨‍💼 Author
+## Author
 
-**Joseph Asborn Daniel (192324009)**
+**Prudhvi Raj.B (192324274)**
 
 ---
 
-## 📄 License
+## License
 
 This project is available for educational and research purposes.
 
