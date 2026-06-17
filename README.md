@@ -1,26 +1,21 @@
 # Data Science & Analytics Experiments
 
-A comprehensive collection of 15 data science and analytics experiments demonstrating various techniques and methodologies for data analysis, visualization, and insights extraction using Tableau, R, and CSV/Excel datasets.
+A comprehensive collection of **30 data science experiments** demonstrating data analysis, visualization, and insights extraction using **Tableau**, **R**, and **Excel/CSV datasets**.
 
 ---
 
 ## 📋 Table of Contents
 
-1. [Experiment 1: Budget vs Sales Analysis](#experiment-1-budget-vs-sales-analysis)
-2. [Experiment 2: Customer Demographics Analysis](#experiment-2-customer-demographics-analysis)
-3. [Experiment 3: Product Sales Analysis](#experiment-3-product-sales-analysis)
-4. [Experiment 4: Product Inventory Analysis](#experiment-4-product-inventory-analysis)
-5. [Experiment 5: Geographic Data Analysis](#experiment-5-geographic-data-analysis)
-6. [Experiment 6: Product Category Analysis](#experiment-6-product-category-analysis)
-7. [Experiment 7: Website Traffic Analysis](#experiment-7-website-traffic-analysis)
-8. [Experiment 8: Employee Performance Analysis](#experiment-8-employee-performance-analysis)
-9. [Experiment 9: Online Learning Activity Analysis](#experiment-9-online-learning-activity-analysis)
-10. [Experiment 10: Survey Responses Analysis](#experiment-10-survey-responses-analysis)
-11. [Experiment 11: Sales Performance Analysis](#experiment-11-sales-performance-analysis)
-12. [Experiment 12: Monthly Product Sales Analysis](#experiment-12-monthly-product-sales-analysis)
-13. [Experiment 13: Geographic Sales Distribution](#experiment-13-geographic-sales-distribution)
-14. [Experiment 14: Survey Results Analysis](#experiment-14-survey-results-analysis)
-15. [Experiment 15: Customer Feedback Analysis](#experiment-15-customer-feedback-analysis)
+### Core Experiments (1-15)
+1. Budget vs Sales | 2. Customer Demographics | 3. Product Sales | 4. Product Inventory | 5. Geographic Data
+6. Product Category | 7. Website Traffic | 8. Employee Performance | 9. Online Learning | 10. Survey Responses
+11. Sales Performance | 12. Monthly Product Sales | 13. Geographic Distribution | 14. Survey Results | 15. Customer Feedback
+
+### Extended & Advanced Experiments (16-30)
+16. Customer Demographics (Extended) | 17. Employee Performance (Extended) | 18. Product Inventory Management
+19. Survey Responses (Extended) | 20. Stock Analysis | 21. Energy Consumption | 22. Monthly Sales (Extended)
+23. Employee Performance (Additional) | 24. Product Inventory (Extended) | 25. Website Traffic (Extended)
+26. Student Mini Data | 27. Patient Health Risk | 28. Vehicle Performance | 29. Student Academic Performance | 30. Mobile App Usage
 
 ---
 
@@ -361,102 +356,6 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
-## 📊 Tools & Technologies Used
-
-- **Tableau** - Data visualization and dashboarding
-- **R** - Statistical analysis and advanced computations
-- **Excel/CSV** - Data preparation and storage
-- **Data Analysis Tools** - Multiple analytical techniques
-
-## 📁 Project Structure
-
-```
-dsa0620/
-├── README.md                          # This file
-├── images/                            # Output visualizations
-│   ├── exp1.png through exp15.png
-│   ├── exp3.png - exp10.png
-│   └── exp12.png - exp15.png
-├── Datasets/
-│   ├── Budget vs Sales.xlsx
-│   ├── Customer Demographics.xlsx
-│   ├── Product Sales Analysis.xlsx
-│   ├── Employee Performance datasets
-│   ├── Website Traffic datasets
-│   ├── Survey datasets
-│   └── [Other data files]
-├── Tableau Workbooks/
-│   ├── set 1 through set 15.twb
-│   └── set12.twb, set14.twb
-└── R Scripts/
-    └── Online_Learning_Activity.R
-```
-
-## 🎯 Key Findings Summary
-
-| Experiment | Key Metric | Finding |
-|-----------|-----------|---------|
-| 1. Budget vs Sales | ROI | Strong correlation between budget allocation and sales |
-| 2. Customer Demographics | Segment Performance | Identified 5 major customer segments with varying purchase patterns |
-| 3. Product Sales | Top Performer | 20% of products generate 80% of revenue |
-| 4. Inventory | Stock Status | Optimal inventory levels achieved for 85% of products |
-| 5. Geographic | Top Region | Region A shows highest growth potential |
-| 6. Product Category | Market Share | Category B has largest market penetration |
-| 7. Website Traffic | Conversion | Organic traffic shows highest conversion rate |
-| 8. Employee Performance | Top Performer | Top 10% of employees achieve 40% of productivity targets |
-| 9. Online Learning | Engagement | 75% course completion rate achieved |
-| 10. Survey Responses | Satisfaction | Average satisfaction score: 4.2/5.0 |
-| 11. Sales Performance | Growth | QoQ growth rate: 12.5% |
-| 12. Monthly Sales | Seasonality | Strong seasonality detected Q4 peak |
-| 13. Geographic Distribution | Penetration | 68% market penetration in urban areas |
-| 14. Survey Results | Consensus | 80% agreement on key survey question |
-| 15. Customer Feedback | Sentiment | 72% positive feedback received |
-
----
-
-## 📈 Methodology
-
-All experiments follow a standardized approach:
-
-1. **Data Collection** - Gather raw data from various sources
-2. **Data Cleaning** - Remove duplicates, handle missing values, standardize formats
-3. **Exploratory Data Analysis** - Understand data distributions and relationships
-4. **Analysis** - Apply statistical and analytical techniques
-5. **Visualization** - Create clear, insightful visualizations
-6. **Interpretation** - Generate actionable insights and recommendations
-
----
-
-## 🚀 How to Use This Repository
-
-1. **View Visualizations** - Check the `images/` folder for all experiment outputs
-2. **Review Datasets** - Examine the data files used for each experiment
-3. **Explore Tableau Workbooks** - Open `.twb` files in Tableau to interact with dashboards
-4. **Run R Analysis** - Execute the R scripts for statistical analysis
-
----
-
-## 📝 Notes
-
-- All datasets have been cleaned and preprocessed for analysis
-- Visualizations are optimized for clarity and insight extraction
-- Results are based on the most recent data available as of the analysis date
-- For detailed methodology, refer to individual experiment documentation
-
----
-
-## 👨‍💼 Author
-
-**Joseph Asborn Daniel (192324009)**
-
----
-
-## 📄 License
-
-This project is available for educational and research purposes.
-
----
-
 ### Experiment 21: Energy Consumption Analysis
 
 **Aim:** To analyze energy usage patterns and identify opportunities for efficiency improvements.
@@ -620,3 +519,100 @@ This project is available for educational and research purposes.
 **Last Updated:** June 16, 2026
 
 For questions or further information about these experiments, please refer to the individual dataset documentation or contact the analysis team.
+
+---
+
+## 📊 Tools & Technologies Used
+
+- **Tableau** - Interactive data visualization and dashboarding
+- **R** - Statistical analysis and advanced computations
+- **Excel/CSV** - Data preparation and storage
+- **Data Analysis Tools** - Multiple analytical techniques
+
+---
+
+## 📁 Project Structure
+
+```
+dsa0620/
+├── README.md                          # Documentation
+├── images/                            # Output visualizations (exp1-exp30.png)
+├── Datasets/
+│   ├── Budget vs Sales.xlsx
+│   ├── Customer Demographics*.xlsx
+│   ├── Product Sales Analysis.xlsx
+│   ├── Employee Performance*.xlsx
+│   ├── Website Traffic*.xlsx
+│   ├── Survey Responses*.xlsx
+│   └── [Other specialized datasets]
+├── Tableau Workbooks/
+│   ├── set 1-30.twb
+│   └── set12.twb, set14.twb
+└── R Scripts/
+    └── Online_Learning_Activity.R
+```
+
+---
+
+## 🎯 Key Findings Summary
+
+| Experiment | Key Metric | Finding |
+|-----------|-----------|---------|
+| 1. Budget vs Sales | ROI | Strong correlation between budget allocation and sales |
+| 2. Customer Demographics | Segments | 5 major customer segments with varying purchase patterns |
+| 3. Product Sales | Top Performer | 20% of products generate 80% of revenue |
+| 4. Inventory | Stock Status | 85% optimal inventory levels achieved |
+| 5. Geographic | Top Region | Region A shows highest growth potential |
+| 6. Product Category | Market Share | Category B has largest penetration |
+| 7. Website Traffic | Conversion | Organic traffic has highest conversion rate |
+| 8. Employee Performance | Top Performer | Top 10% achieve 40% of productivity targets |
+| 9. Online Learning | Engagement | 75% course completion rate |
+| 10. Survey Responses | Satisfaction | 4.2/5.0 average score |
+| 11. Sales Performance | Growth | 12.5% QoQ growth rate |
+| 12. Monthly Sales | Seasonality | Strong Q4 peak seasonality |
+| 13. Geographic Distribution | Penetration | 68% urban market penetration |
+| 14. Survey Results | Consensus | 80% agreement on key questions |
+| 15. Customer Feedback | Sentiment | 72% positive feedback |
+
+---
+
+## 📈 Methodology
+
+All experiments follow a **standardized analytical approach**:
+
+1. **Data Collection** - Gather raw data from various sources
+2. **Data Cleaning** - Remove duplicates, handle missing values, standardize formats
+3. **Exploratory Data Analysis** - Understand distributions and relationships
+4. **Analysis** - Apply statistical and analytical techniques
+5. **Visualization** - Create clear, insightful visual representations
+6. **Interpretation** - Generate actionable insights and recommendations
+
+---
+
+## 🚀 How to Use This Repository
+
+1. **View Visualizations** - Browse the `images/` folder for all experiment outputs
+2. **Review Datasets** - Examine the Excel/CSV files used for each experiment
+3. **Explore Tableau Workbooks** - Open `.twb` files in Tableau for interactive dashboards
+4. **Run R Analysis** - Execute R scripts for statistical computations
+
+---
+
+## 📝 Notes
+
+- ✅ All datasets have been cleaned and preprocessed for analysis
+- ✅ Visualizations are optimized for clarity and insight extraction
+- ✅ Results based on most recent data available
+- ✅ Each experiment includes detailed methodology documentation
+
+---
+
+## 👨‍💼 Author
+
+**Joseph Asborn Daniel** (ID: 192324009)
+
+---
+
+## 📄 License
+
+This project is available for **educational and research purposes**.
